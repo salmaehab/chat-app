@@ -2,7 +2,7 @@
 real-time chat application 
 # built with
 Node js, mongo db, soket io
-#installation
+# installation
 execute this commands
 yarn: to install packages
 nodemon index.js: to run server
